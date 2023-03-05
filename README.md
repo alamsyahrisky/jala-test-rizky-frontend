@@ -1,4 +1,4 @@
-# nuxt-bootstrap
+# Jala Test Rizky Frontend
 
 ## Build Setup
 
